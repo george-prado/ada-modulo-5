@@ -1,5 +1,6 @@
-# To-do List (CRUD) | Projeto Módulo 5 - Santander Coders 2023.2
+# Santander Coders 2023.2 | Front-End
+## Projeto Módulo 5 (Angular I) - Todo List (CRUD) 
 
-Lista de Tarefas desenvolvida para conclusão do módulo 5 referente ao Bootcamp Santander Coders com foco em Front-End.
+Projeto realizado para conclusão do módulo 5 referente ao Bootcamp Santander Coders com foco em Front-End.
 
-A aplicação foi desenvolvida em Angular 17 (contudo ainda sem implementações das novas diretivas desta versão), fazendo uso de Awesome CSS e Animations, com persistência em Local Storage.
+A aplicação consiste em uma Lista de Tarefas contendo funcionalidades CRUD (Create, Read, Update & Delete). Foi desenvolvida em Angular 17, contudo ainda sem implementações das novas diretivas desta versão. Além disso, fez-se uso de Awesome Fonts (iconização) e CSS Animations, com persistência  das tarefas em Local Storage, conforme solicitado.
